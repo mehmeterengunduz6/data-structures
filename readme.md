@@ -5,18 +5,18 @@
 
 **Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.**
 
-22 ve 27'yi ele aldık. 22 daha küçük. Listenin yeni hali: [22,27,16,2,18,6]
-27 ve 16'yı ele aldık. 16 daha küçük. Listenin yeni hali: [22,16,27,2,18,6]
-22 ve 16'yı ele aldık. 16 daha küçük. Listenin yeni hali: [16,22,27,2,18,6]
-27 ve 2'yi ele aldık. 2 daha küçük. Listenin yeni hali: [16,22,2,27,18,6]
-22 ve 2'yi ele aldık. 2 daha küçük. Listenin yeni hali: [16,2,22,27,18,6]
-16 ve 2'yi ele aldık. 2 daha küçük. Listenin yeni hali: [2,16,22,27,18,6]
-27 ve 18'i ele aldık. 18 daha küçük. Listenin yeni hali: [2,16,22,18,27,6]
-22 ve 18'i ele aldık. 18 daha küçük. Listenin yeni hali: [2,16,18,22,27,6]
-27 ve 6'yı ele aldık. 6 daha küçük. Listenin yeni hali: [2,16,18,22,6,27]
-22 ve 6'yı ele aldık. 6 daha küçük. Listenin yeni hali: [2,16,18,6,22,27]
-18 ve 6'yı ele aldık. 6 daha küçük. Listenin yeni hali: [2,16,6,18,22,27]
-16 ve 6'yı ele aldık. 6 daha küçük. Listenin yeni hali: [2,6,16,18,22,27]
+22 ve 27'yi ele aldık. 22 daha küçük. Listenin yeni hali: [22,27,16,2,18,6]  
+27 ve 16'yı ele aldık. 16 daha küçük. Listenin yeni hali: [22,16,27,2,18,6]  
+22 ve 16'yı ele aldık. 16 daha küçük. Listenin yeni hali: [16,22,27,2,18,6]  
+27 ve 2'yi ele aldık. 2 daha küçük. Listenin yeni hali: [16,22,2,27,18,6]  
+22 ve 2'yi ele aldık. 2 daha küçük. Listenin yeni hali: [16,2,22,27,18,6]  
+16 ve 2'yi ele aldık. 2 daha küçük. Listenin yeni hali: [2,16,22,27,18,6]  
+27 ve 18'i ele aldık. 18 daha küçük. Listenin yeni hali: [2,16,22,18,27,6]  
+22 ve 18'i ele aldık. 18 daha küçük. Listenin yeni hali: [2,16,18,22,27,6]  
+27 ve 6'yı ele aldık. 6 daha küçük. Listenin yeni hali: [2,16,18,22,6,27]  
+22 ve 6'yı ele aldık. 6 daha küçük. Listenin yeni hali: [2,16,18,6,22,27]  
+18 ve 6'yı ele aldık. 6 daha küçük. Listenin yeni hali: [2,16,6,18,22,27]  
+16 ve 6'yı ele aldık. 6 daha küçük. Listenin yeni hali: [2,6,16,18,22,27]  
 
 ---
 
