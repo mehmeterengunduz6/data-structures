@@ -20,7 +20,7 @@
 
 ---
 
-**Big-O gösterimini yazınız.**
+Big-O gösterimini yazınız.
 
 O(n^2)
 
@@ -56,3 +56,42 @@ Ninth lowest value is 9. Swap 15 and 9. [2,3,4,5,6,7,8,9,15]
 
 ---
 
+## Proje 2
+
+[16,21,11,8,12,22] -> Merge Sort
+
+**Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.**
+
+Subarray 1: [16,21,11]
+
+Subarray 2: [8,12,22]
+
+
+Subarray 1a: [16,21]
+Subarray 1b: [11]
+
+Subarray 2a: [8,12]
+Subarray 2b: [11]
+
+
+Subarray 1ax: [16]
+Subbarray 1ay: [21]
+
+Subarray 2ax: [8]
+Subarray 2ay: [12]
+
+
+
+Sorted Subarray 1a: [16,21]
+Sorted Subarray 2a: [8,12]
+
+Sorted Subarray 1: [11,16,21]
+Sorted Subarray 2: [8,12,22]
+
+**Sorted array: [8,11,12,16,21,22]**
+
+---
+
+**Big-O gösterimini yazınız.**
+
+O(nlogn)
